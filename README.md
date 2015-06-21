@@ -3,3 +3,4 @@ Contains design patterns example code
 
 1. Singleton
 2. Builder
+3. Strategy
